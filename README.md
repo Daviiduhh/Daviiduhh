@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Daviiduhh
+- 👀 I’m interested in technology and digitals tools
+- 🌱 I’m currently learning frontend
+- 📫 How to reach me: daviiduhhs@gmail.com
