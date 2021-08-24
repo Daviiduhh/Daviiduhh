@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Daviiduhh
+- 🌎 Visit my page: https://daviiduhh.com/
 - 👀 I’m interested in technology and digitals tools
-- 🌎 Visit my page: daviiduhh.com
 - 🌱 I’m currently learning frontend
 - 📫 How to reach me: daviiduhhs@gmail.com
