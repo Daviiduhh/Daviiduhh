@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Daviiduhh
-- - 🌱 Frontend web developer
+- 🌱 Frontend web developer
 - 🌎 Visit my page: https://daviiduhh.com/
 - 👀 I’m interested in technology and digitals tools
 - 📫 How to reach me: daviiduhhs@gmail.com
